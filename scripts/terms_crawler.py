@@ -68,7 +68,6 @@ def save_to_json(data, filename="glossary.json", directory="data"):
     else:
         print("⚠️ Skipping JSON file save: No data was extracted.")
 
-# Main execution block
 if __name__ == "__main__":
     GLOSSARY_URL = "https://usq.pressbooks.pub/anatomy/back-matter/glossary/"
     OUTPUT_DIRECTORY = "../data" 
