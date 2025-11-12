@@ -48,3 +48,19 @@ It is designed for:
     "related_terms": ["dermis", "epidermis", "dermatitis"]
   }
 ]
+
+
+## 📚 Data Source & License
+
+This repository contains medical terminology data derived from:
+
+> "Glossary – Fundamentals of Anatomy and Physiology"  
+> by University of Southern Queensland  
+> https://usq.pressbooks.pub/anatomy/back-matter/glossary/  
+> Licensed under **CC BY-SA 4.0**
+
+The dataset (`data/anatomy_terms.*`) is redistributed and extended under the same
+**Creative Commons Attribution-ShareAlike 4.0 International License**.
+
+All scripts and utilities in the `/scripts` directory are released under the **MIT License**.  
+See `LICENSE` and `DATA_LICENSE` for details.
