@@ -1,9 +1,19 @@
 Data License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-This dataset (“Anatomy Glossary Dataset”) includes material derived from:
-"Glossary – Fundamentals of Anatomy and Physiology" by University of Southern Queensland,
-available at https://usq.pressbooks.pub/anatomy/back-matter/glossary/,
-licensed under CC BY-SA 4.0.
+This repository includes datasets derived from multiple CC BY-SA 4.0-licensed sources:
 
-© 2025 Seunghyun Woo. Additional structure, annotations, and formatting 
-are released under the same CC BY-SA 4.0 license.
+1️⃣ Anatomy Glossary Dataset  
+   Derived from: "Glossary – Fundamentals of Anatomy and Physiology"  
+   by University of Southern Queensland  
+   Available at: https://usq.pressbooks.pub/anatomy/back-matter/glossary/  
+   Licensed under CC BY-SA 4.0  
+
+2️⃣ Medical Affixes Dataset  
+   Derived from: "List of medical roots, suffixes and prefixes" by Wikipedia contributors  
+   Available at: https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes  
+   Licensed under CC BY-SA 4.0  
+
+© 2025 Seunghyun Woo.  
+Additional structure, annotations, and formatting are released under the same CC BY-SA 4.0 license.  
+
+License details: https://creativecommons.org/licenses/by-sa/4.0/
