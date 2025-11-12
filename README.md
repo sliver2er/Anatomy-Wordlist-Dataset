@@ -8,7 +8,7 @@ A structured, open-source dataset of anatomy-related medical terms — categoriz
 This project provides a structured wordlist of **anatomy-related medical terms**, decomposed into their **prefix**, **root**, and **suffix** components.  
 It is designed for:
 
-- 🧩 **Medical education tools** (e.g., Quizlet/Anki-style learning apps)
+- 🧩 **Medical education tools** 
 - 🤖 **NLP or ML research** on medical terminology
 - 📖 **Linguistic analysis** of biomedical language
 
